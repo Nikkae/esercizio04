@@ -1,3 +1,3 @@
 a = int(input("inserisci un numero --> "))
-a *= 2
-print("Ecco il valore doppio:", a)
+a *= 3
+print("Ecco il valore triplo:", a)
