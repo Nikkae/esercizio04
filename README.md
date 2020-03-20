@@ -1,1 +1,1 @@
-# programma che dato un valore ne restituisce il doppio
+# programma che dato un valore ne restituisce il triplo
